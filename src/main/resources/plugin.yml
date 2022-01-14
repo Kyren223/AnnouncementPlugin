@@ -1,0 +1,6 @@
+name: AnnouncementPlugin
+version: '${project.version}'
+main: me.kyren223.announcementplugin.AnnouncementPlugin
+api-version: 1.18
+authors: [ Kyren223 ]
+description: An announcement plugin
